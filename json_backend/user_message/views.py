@@ -1,7 +1,7 @@
 from django.shortcuts import render
 
 # Create your views here.
-# myapp/views.py
+# user_message/views.py
 
 from rest_framework import generics, permissions
 from rest_framework.response import Response

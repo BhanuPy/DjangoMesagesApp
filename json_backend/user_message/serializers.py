@@ -1,4 +1,4 @@
-# myapp/serializers.py
+# user_message/serializers.py
 
 from rest_framework import serializers
 from .models import Message
